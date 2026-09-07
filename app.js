@@ -1,6 +1,6 @@
 /* ============================================================
    app.js — PhotoPDF | Photo to PDF Converter
-   Tamamen yerel çalışır, internet gerektirmez.
+   Hızlı, güvenli ve ücretsiz PDF dönüştürücü.
    ============================================================ */
 
 'use strict';
